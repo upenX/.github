@@ -47,8 +47,7 @@ While many of our projects are private due to NDAs, here are examples of what we
 
 ## Get in Touch
 - Email: [hello@upenx.com](mailto:hello@upenx.com)  
-- Website: [www.upenx.com](https://www.upenx.com) (coming soon)  
-- LinkedIn: [linkedin.com/company/upenx](https://linkedin.com/company/upenx)  
+- Website: [www.upenx.com](https://www.upenx.com) (coming soon)
 
 ---
 
