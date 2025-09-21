@@ -6,6 +6,12 @@ At **upenX**, we help startups and enterprises build reliable, scalable, and mod
 
 ---
 
+## At a Glance
+![Team size](https://img.shields.io/badge/Team-8%2B-brightgreen)
+![Repositories](https://img.shields.io/badge/Private_Repos-13-blue)
+
+---
+
 ## Who We Are
 We are a U.S.-based software development agency with a global reach. Our mission is to turn ideas into world-class digital products by combining cutting-edge technology with clean, scalable architecture.
 
